@@ -1,0 +1,8 @@
+.counter button:hover {
+    background-color: aqua;
+}
+
+.counter button{
+    background-color: gray;
+    font-size: larger;
+}
